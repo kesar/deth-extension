@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "DethEtherscan",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "dETH Code explorer inside etherscan",
   "icons": {
     "16": "icon16.png",
