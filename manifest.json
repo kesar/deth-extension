@@ -15,7 +15,16 @@
         "https://arbiscan.io/*",
         "https://polygonscan.com/*",
         "https://bscscan.com/*",
-        "https://optimistic.etherscan.io/*"
+        "https://optimistic.etherscan.io/*",
+        "https://ropsten.etherscan.io/*",
+        "https://testnet.bscscan.com/*",
+        "https://hecoinfo.com/*",
+        "https://snowtrace.com/*",
+        "https://rinkeby.etherscan.io/*",
+        "https://kovan.etherscan.io/*",
+        "https://ftmscan.com/*",
+        "https://moonbase.moonscan.io/*",
+        "https://moonriver.moonscan.io/"
       ],
       "js": [
         "Content.js"
